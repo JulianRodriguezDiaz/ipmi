@@ -1,5 +1,9 @@
 PImage Egipto; 
 
+//Julian Rodriguez Diaz 
+//Comision 2
+//Legajo: 91443/6
+
 void setup() { 
 size (800, 400); 
   Egipto = loadImage("piramides.jpg");
